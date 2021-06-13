@@ -16,24 +16,18 @@
  </p>
  <br>
  <p>Kindly select your gender.</p>
- <form>
-   <input type="radio" id="male" name="gender" value="male">
-   <label for="male">Male</label><br>
-   <input type="radio" id="female" name="gender" value="female">
-   <label for="female">Female</label><br>
-</form>
-  <form>
-  <label for="Male">Day of the week</label>
-  <input type="text" id="Day of the week" name="day" value="Sunday","Monday","Tuesday",
-  "Wenesday","Thursday","Friday","Saturday">
-  <label for="Female>Day of the week</label>
-  <input type="text" id="Day of the week" name="day" value=Sunday","Monday","Tuesday",
-  "Wenesday","Thursday","Friday","Saturday">
-  <input type="submit"
-</form>
+ <form name="myForm" class="form" onsubmit="validate();">
+  <div class="form-group">
+    <label for="number">Year of Birth:</label>
+    <input type="number" class="form-control" id="year" placeholder="Year of Birth Eg: 2019 if born in 2019" name="year">
+  </div>
+  <div class="form-group">
+    <label for="month">Month of Birth:</label>
+    <input type="number" class="form-control" id="month" placeholder="Month of Birth" name="month">
+
 <script>
 
-  
+
 </script>
 
 
