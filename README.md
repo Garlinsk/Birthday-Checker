@@ -1,4 +1,4 @@
-#BIRTHDAY-CHECKER
+#BIRTHDAY-TRACKER
 #### Franklin Kuloba,year 2021
 #### By  Franklin Kuloba
 ## Description
