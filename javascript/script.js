@@ -1,6 +1,6 @@
-let male = (DayOfTheWeek){"Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
-let female =(DayOfTheWeek){Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
-if akanName =(male){
+var male =DayOfTheWeek{"Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
+var female =DayOfTheWeek{Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
+let male =akanName{
     Sunday: Kwasi
 
     Monday: Kwadwo
@@ -16,7 +16,7 @@ if akanName =(male){
     Saturday: Kwame
     
     }
-if akanName =(female){
+if female =akanName{
     Sunday: Akosua
 
 Monday: Adwoa
