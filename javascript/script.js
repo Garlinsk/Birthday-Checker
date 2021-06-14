@@ -14,6 +14,7 @@ let male =akanName{
     Friday: Kofi
     
     Saturday: Kwame
+    console.log(akanName)
     
     }
 if female =akanName{
@@ -30,6 +31,7 @@ Thursday:  Yaa
 Friday: Afua
 
 Saturday: Ama
-
+console.log(akanName)
 }
 let DayOfTheWeek (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
+console.log(let DayOfTheWeek (d))
