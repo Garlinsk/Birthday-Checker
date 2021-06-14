@@ -1,6 +1,6 @@
-var male = (DayOfTheWeek){"Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
-var female =(DayOfTheWeek){Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
-var akanName =(male){
+let male = (DayOfTheWeek){"Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
+let female =(DayOfTheWeek){Sunday","Monday","Tuesday" ,"Wenesday","Thursday,"Friday","Saturday"}
+if akanName =(male){
     Sunday: Kwasi
 
     Monday: Kwadwo
@@ -16,7 +16,7 @@ var akanName =(male){
     Saturday: Kwame
     
     }
-var akanName =(female){
+if akanName =(female){
     Sunday: Akosua
 
 Monday: Adwoa
@@ -32,4 +32,4 @@ Friday: Afua
 Saturday: Ama
 
 }
-DayOfTheWeek (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
+let DayOfTheWeek (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(MM+1)/10)) + DD ) mod 7
