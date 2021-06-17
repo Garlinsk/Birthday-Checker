@@ -46,7 +46,7 @@ function akanName () {
     }
 
     //let now display to the html
-    document.getElementById("daysOfTheWeek").innerHTML = daysOfTheWeek[d]
+    document.getElementById("daysOfWeek").innerHTML = daysOfTheWeek[d]
     document.getElementById("akanName").innerHTML = name;
 
 
